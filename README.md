@@ -14,11 +14,13 @@ Things to consider:
 3 confirmations will likely mean that by the time your btc arrive on the winning exchange, the order book will be different. You need to either hedge your position while btc are in transit or have btc ready on the other end that you can then do the accounting for.
 
 Depends on:
-<pre>
+
 https://github.com/unwitting/bitstampy
+<br>
 https://github.com/scottjbarr/bitfinex
+<br>
 https://github.com/veox/python2-krakenex
-</pre>
+
 
 ```
 Christian-Papathanasious-iMac:/ chris$ ./smartrouter.py 50
