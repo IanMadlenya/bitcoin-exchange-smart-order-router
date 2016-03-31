@@ -2,7 +2,7 @@
 
 2015 C. Papathanasiou
 
-A smart order router for selling bitcoin at the exchange with the best price for amount being sold.
+A "smart" order router for selling bitcoin at the exchange with the best price for amount being sold.
 
 Precisely replicates orderbooks at Bitstamp, Bitfinex, Kraken and models impact to price of  Market sell order taking into account withdraw fees and comission (correct as of 26 Jan 2015).
 
